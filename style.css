@@ -51,13 +51,29 @@
         padding: 20px;
     }
 
- 
 
-.section-2{
-    background-image: url(./image/FIRSTIMG.jpg);
-}
 
-    .seven-pic{
+    .section-2 {
+        background-image: url(./image/FIRSTIMG.jpg);
+    }
+
+    .seven-pic {
         background-image: url(./image/footer.jpg);
         height: 100%;
     }
+
+    .general-info{
+        background-image: url(./image/pexels-vikashkr50-17863399.jpg);
+        height: 100%;
+    }
+    .line{
+        background-color: rgba(240, 248, 255, 0.514);
+        height: 3px;
+        width: 70%;
+    }
+    .where img{
+        width: 100%;
+        height: 350px;
+        object-fit: cover;
+    }
+    
